@@ -1,0 +1,8 @@
+Spawn:
+  ##Hider Spawn after the game starts
+  Hider: 'world;233;4;-51;180;-1'
+  ##Seeker Spawn after the game starts
+  Seeker: 'world;233;4;-51;180;-1'
+  ##The Seeker is teleported after a certain time
+  Seeker2: 'world;233;4;-51;180;-1'
+  Lobby: 'world;233;4;-51;180;-1'

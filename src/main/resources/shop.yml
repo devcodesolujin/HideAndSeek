@@ -1,0 +1,27 @@
+Shop:
+  Price:
+    Ice: 10
+    Snow: 10
+Items:
+  List:
+  - '1;0;Stone'
+  - '2;0;Dirt'
+  - '12;0;Sand'
+  - '79;0;Ice'
+  - '80;0;Snow'
+ItemsEmpty:
+  List:
+  - '1;0;Stone'
+  - '2;0;Dirt'
+  - '12;0;Sand'
+Taunts:
+  Bark: 'Barking Dog;5;6'
+  Ghast: 'Ghast Hurt;6;7'
+  Enderman: 'Angry Enderman;6;7'
+  Creeper: 'Creper;4;5'
+  Pig: 'Pig;5;6'
+  Enderdragon: 'Enderdragon;7;8'
+  Firework: 'Firework;10;12'
+Game:
+  Win: 10
+  Kill: 10

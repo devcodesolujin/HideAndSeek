@@ -1,0 +1,7 @@
+MySQL:
+  Host: localhost
+  Port: 3306
+  Database: db
+  User: user
+  Password: password
+  Activated: false

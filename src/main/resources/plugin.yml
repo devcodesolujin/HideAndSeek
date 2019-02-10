@@ -1,0 +1,7 @@
+name: HideAndSeek
+version: 0.7
+author: devcode / xXPlayer2000
+main: me.devcode.hideandseek.HideAndSeek
+commands:
+  start:
+  stats:
